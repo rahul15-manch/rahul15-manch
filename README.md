@@ -30,5 +30,7 @@ Here are some ideas to get you started:
 ![Flask](https://img.shields.io/badge/Flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white)
 ![Beautiful Soup](https://img.shields.io/badge/BeautifulSoup-4-green?style=for-the-badge)
 ![Streamlit](https://img.shields.io/badge/Streamlit-%23FF4B4B.svg?style=for-the-badge&logo=streamlit&logoColor=white)
+[![Plotly](https://img.shields.io/badge/Plotly-3DD1F2?style=for-the-badge&logo=plotly&logoColor=white)](https://plotly.com/)
+
 
 
