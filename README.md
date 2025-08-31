@@ -33,8 +33,7 @@ Here are some ideas to get you started:
 [![Plotly](https://img.shields.io/badge/Plotly-3DD1F2?style=for-the-badge&logo=plotly&logoColor=white)](https://plotly.com/)
 ![PyCharm](https://img.shields.io/badge/IDE-PyCharm-000000?style=for-the-badge&logo=pycharm&logoColor=white)
 ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)  
-![DagsHub](https://img.shields.io/badge/DagsHub-F9AB00?style=for-the-badge&logo=dagshub&logoColor=white)  
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![DagsHub](https://img.shields.io/badge/DagsHub-F9AB00?style=for-the-badge&logo=dagshub&logoColor=white)![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 
 
 
