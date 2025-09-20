@@ -1,4 +1,4 @@
-]<p align="center">
+<p align="center">
   <img src="https://github.com/rahul15-manch/rahul15-manch/raw/main/212748842-9fcbad5b-6173-4175-8a61-521f3dbb7514.gif" alt="My GIF" />
 </p>
 
@@ -15,10 +15,10 @@
 ---
 
 ## 🔹 About Me
-- 🔭 I’m currently working on **NLP and Machine Learning projects**
-- 🌱 I’m currently learning **Deep Learning and AI deployment**
-- 💬 Ask me about **Python, NLP, ML, Data Analysis**
-- 📫 How to reach me: **rahulmanchanda015@gmail.com**
+<p align="center">
+  <img src="https://github.com/rahul15-manch/rahul15-manch/raw/main/ChatGPT%20Image%20Sep%2021%2C%202025%2C%2002_05_12%20AM.png" alt="ChatGPT Image" />
+</p>
+
 
 ---
 
