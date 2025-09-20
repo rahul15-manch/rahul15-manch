@@ -1,5 +1,4 @@
-<!-- GIF / Banner -->
-![MasterHead](https://media.giphy.com/media/3o7TKtnuHOHHUjR38Y/giphy.gif)
+
 
 <!-- Intro -->
 <h1 align="center">Hi 👋, I'm Rahul Manchanda</h1>
@@ -61,18 +60,29 @@
 ---
 
 ## 🔗 Connect with Me
-<p align="center">
-  <a href="https://www.linkedin.com/in/rahul-manchanda-3959b120a/" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" width="40" height="40"/>
-  </a>
-  <a href="https://github.com/rahul15-manch" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="GitHub" width="40" height="40"/>
-  </a>
-  <a href="mailto:rahulmanchanda015@gmail.com" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/gmail.svg" alt="Gmail" width="40" height="40"/>
-  </a>
-</p>
 
+<table align="center">
+  <tr>
+    <td align="center">
+      <a href="https://www.linkedin.com/in/rahul-manchanda-3959b120a/" target="_blank">
+        <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/linkedin.svg" alt="LinkedIn" width="40" height="40"/><br>
+        LinkedIn
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/rahul15-manch" target="_blank">
+        <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/github.svg" alt="GitHub" width="40" height="40"/><br>
+        GitHub
+      </a>
+    </td>
+    <td align="center">
+      <a href="mailto:rahulmanchanda015@gmail.com" target="_blank">
+        <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/gmail.svg" alt="Gmail" width="40" height="40"/><br>
+        Gmail
+      </a>
+    </td>
+  </tr>
+</table>
 
 
 
