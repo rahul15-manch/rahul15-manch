@@ -38,6 +38,15 @@
 ![Plotly](https://img.shields.io/badge/Plotly-3DD1F2?style=for-the-badge&logo=plotly&logoColor=white)
 ![Beautiful Soup](https://img.shields.io/badge/BeautifulSoup-4-green?style=for-the-badge)
 ![Streamlit](https://img.shields.io/badge/Streamlit-%23FF4B4B.svg?style=for-the-badge&logo=streamlit&logoColor=white)
+![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E.svg?style=for-the-badge&logo=scikitlearn&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00.svg?style=for-the-badge&logo=tensorflow&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C.svg?style=for-the-badge&logo=pytorch&logoColor=white)
+
+### NLP
+![NLTK](https://img.shields.io/badge/NLTK-76B900.svg?style=for-the-badge&logo=nltk&logoColor=white)
+![spaCy](https://img.shields.io/badge/spaCy-09A3D5.svg?style=for-the-badge&logo=spacy&logoColor=white)
+![Gensim](https://img.shields.io/badge/Gensim-2C9AB7.svg?style=for-the-badge)
+
 
 ### Databases & Deployment
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
@@ -47,9 +56,13 @@
 ![DagsHub](https://img.shields.io/badge/DagsHub-F9AB00?style=for-the-badge&logo=dagshub&logoColor=white)
 ![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 
+
+
 ### IDE & Tools
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![PyCharm](https://img.shields.io/badge/IDE-PyCharm-000000?style=for-the-badge&logo=pycharm&logoColor=white)
+![Google Colab](https://img.shields.io/badge/Google_Colab-F9AB00.svg?style=for-the-badge&logo=googlecolab&logoColor=white)
+
 
 ---
 
