@@ -83,11 +83,9 @@
 ---
 
 ## 📊 GitHub Stats
+
 <p align="center">
-  <img src="https://github-contributor-stats.vercel.app/api?username=rahul15-manch&limit=5&theme=dark&combine_all_yearly_contributions=true" alt="Top Contributors" />
-</p>
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rahul15-manch&theme=dark&hide_border=false" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com?user=rahul15-manch&theme=dark" />
 </p>
 
 ---
