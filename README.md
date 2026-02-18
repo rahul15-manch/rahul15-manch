@@ -88,7 +88,10 @@
 ## 🔥 Today’s DSA Win
 
 <!-- DSA-START -->
-Updating daily...
+
+✔ **Solved:** Combinations  
+📅 **Date:** 18 February 2026  
+
 <!-- DSA-END -->
 
 ---
