@@ -81,6 +81,20 @@
 </table>
 
 ---
+---
+
+---
+
+## 🔥 Today’s DSA Win
+
+<!-- DSA-START -->
+Updating daily...
+<!-- DSA-END -->
+
+---
+
+
+
 
 ## 📊 GitHub Stats
 
@@ -89,6 +103,7 @@
 </p>
 
 ---
+
 
 ## 🔗 Connect with Me
 
