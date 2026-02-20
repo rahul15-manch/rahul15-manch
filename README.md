@@ -86,8 +86,8 @@
 
 <!-- DSA-START -->
 
-✔ **Solved:** Binary Number with Alternating Bits  
-📅 **Date:** 18 February 2026  
+✔ **Solved:** Combination Sum  
+📅 **Date:** 20 February 2026  
 
 <!-- DSA-END -->
 
