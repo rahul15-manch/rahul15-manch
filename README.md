@@ -86,8 +86,8 @@
 
 <!-- DSA-START -->
 
-✔ **Solved:** Combination Sum  
-📅 **Date:** 20 February 2026  
+✔ **Solved:** Next Permutation  
+📅 **Date:** 22 February 2026  
 
 <!-- DSA-END -->
 
