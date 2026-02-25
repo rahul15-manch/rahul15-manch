@@ -86,8 +86,8 @@
 
 <!-- DSA-START -->
 
-✔ **Solved:** Next Permutation  
-📅 **Date:** 22 February 2026  
+✔ **Solved:** Stone Game  
+📅 **Date:** 24 February 2026  
 
 <!-- DSA-END -->
 
