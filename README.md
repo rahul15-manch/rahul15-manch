@@ -86,8 +86,8 @@
 
 <!-- DSA-START -->
 
-✔ **Solved:** Stone Game  
-📅 **Date:** 24 February 2026  
+✔ **Solved:** Min Stack  
+📅 **Date:** 01 March 2026  
 
 <!-- DSA-END -->
 
