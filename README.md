@@ -86,8 +86,8 @@
 
 <!-- DSA-START -->
 
-✔ **Solved:** Min Stack  
-📅 **Date:** 01 March 2026  
+✔ **Solved:** Remove K Digits  
+📅 **Date:** 04 March 2026  
 
 <!-- DSA-END -->
 
