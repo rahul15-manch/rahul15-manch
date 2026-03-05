@@ -86,8 +86,8 @@
 
 <!-- DSA-START -->
 
-✔ **Solved:** Remove K Digits  
-📅 **Date:** 04 March 2026  
+✔ **Solved:** First Missing Positive  
+📅 **Date:** 05 March 2026  
 
 <!-- DSA-END -->
 
