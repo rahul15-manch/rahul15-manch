@@ -86,8 +86,8 @@
 
 <!-- DSA-START -->
 
-✔ **Solved:** Longest Palindromic Substring  
-📅 **Date:** 14 March 2026  
+✔ **Solved:** Generate Parentheses  
+📅 **Date:** 16 March 2026  
 
 <!-- DSA-END -->
 
