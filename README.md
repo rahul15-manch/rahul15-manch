@@ -86,8 +86,8 @@
 
 <!-- DSA-START -->
 
-✔ **Solved:** Generate Parentheses  
-📅 **Date:** 16 March 2026  
+✔ **Solved:** Letter Combinations of a Phone Number  
+📅 **Date:** 17 March 2026  
 
 <!-- DSA-END -->
 
