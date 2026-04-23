@@ -86,8 +86,8 @@
 
 <!-- DSA-START -->
 
-✔ **Solved:** Buy Two Chocolates  
-📅 **Date:** 15 April 2026  
+✔ **Solved:** Two Sum  
+📅 **Date:** 23 April 2026  
 
 <!-- DSA-END -->
 
