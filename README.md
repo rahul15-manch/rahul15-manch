@@ -86,8 +86,8 @@
 
 <!-- DSA-START -->
 
-✔ **Solved:** Two Sum  
-📅 **Date:** 23 April 2026  
+✔ **Solved:** Minimum Average of Smallest and Largest Elements  
+📅 **Date:** 30 May 2026  
 
 <!-- DSA-END -->
 
