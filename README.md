@@ -86,8 +86,8 @@
 
 <!-- DSA-START -->
 
-✔ **Solved:** Minimum Average of Smallest and Largest Elements  
-📅 **Date:** 30 May 2026  
+✔ **Solved:** Maximum Product Subarray  
+📅 **Date:** 31 May 2026  
 
 <!-- DSA-END -->
 
