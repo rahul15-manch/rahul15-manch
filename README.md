@@ -86,8 +86,8 @@
 
 <!-- DSA-START -->
 
-✔ **Solved:** Maximum Product Subarray  
-📅 **Date:** 31 May 2026  
+✔ **Solved:** Add Two Numbers  
+📅 **Date:** 02 June 2026  
 
 <!-- DSA-END -->
 
