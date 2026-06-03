@@ -86,8 +86,8 @@
 
 <!-- DSA-START -->
 
-✔ **Solved:** Add Two Numbers  
-📅 **Date:** 02 June 2026  
+✔ **Solved:** Product of Array Except Self  
+📅 **Date:** 03 June 2026  
 
 <!-- DSA-END -->
 
