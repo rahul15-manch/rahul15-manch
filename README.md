@@ -86,8 +86,8 @@
 
 <!-- DSA-START -->
 
-✔ **Solved:** Product of Array Except Self  
-📅 **Date:** 03 June 2026  
+✔ **Solved:** Valid Anagram  
+📅 **Date:** 04 June 2026  
 
 <!-- DSA-END -->
 
