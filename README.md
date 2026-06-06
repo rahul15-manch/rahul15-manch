@@ -86,8 +86,8 @@
 
 <!-- DSA-START -->
 
-✔ **Solved:** Valid Anagram  
-📅 **Date:** 04 June 2026  
+✔ **Solved:** Left and Right Sum Differences  
+📅 **Date:** 06 June 2026  
 
 <!-- DSA-END -->
 
