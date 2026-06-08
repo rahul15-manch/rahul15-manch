@@ -86,8 +86,8 @@
 
 <!-- DSA-START -->
 
-✔ **Solved:** Longest Common Subsequence  
-📅 **Date:** 07 June 2026  
+✔ **Solved:** Partition Array According to Given Pivot  
+📅 **Date:** 08 June 2026  
 
 <!-- DSA-END -->
 
