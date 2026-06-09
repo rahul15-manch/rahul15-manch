@@ -86,8 +86,8 @@
 
 <!-- DSA-START -->
 
-✔ **Solved:** Partition Array According to Given Pivot  
-📅 **Date:** 08 June 2026  
+✔ **Solved:** Maximum Total Subarray Value I  
+📅 **Date:** 09 June 2026  
 
 <!-- DSA-END -->
 
