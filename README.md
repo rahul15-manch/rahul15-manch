@@ -86,8 +86,8 @@
 
 <!-- DSA-START -->
 
-✔ **Solved:** Maximum Total Subarray Value I  
-📅 **Date:** 09 June 2026  
+✔ **Solved:** Remove Duplicates from Sorted Array II  
+📅 **Date:** 11 June 2026  
 
 <!-- DSA-END -->
 
