@@ -86,8 +86,8 @@
 
 <!-- DSA-START -->
 
-✔ **Solved:** Remove Duplicates from Sorted Array II  
-📅 **Date:** 11 June 2026  
+✔ **Solved:** Find the Difference  
+📅 **Date:** 12 June 2026  
 
 <!-- DSA-END -->
 
