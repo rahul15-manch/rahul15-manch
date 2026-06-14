@@ -86,8 +86,8 @@
 
 <!-- DSA-START -->
 
-✔ **Solved:** Find the Difference  
-📅 **Date:** 12 June 2026  
+✔ **Solved:** Check if Array Is Sorted and Rotated  
+📅 **Date:** 14 June 2026  
 
 <!-- DSA-END -->
 
