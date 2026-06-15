@@ -6,21 +6,14 @@
 
 <!-- Intro -->
 <h1 align="center">Hi 👋, I'm Rahul Manchanda</h1>
-<h3 align="center">A passionate Data Enthusiast and ML Developer from India</h3>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=rahul15-manch&label=Profile%20views&color=0e75b6&style=flat" alt="rahul15-manch" />
-</p>
-
----
-
 ## 🔹 About Me
 <p align="center">
-  <img src="https://github.com/rahul15-manch/rahul15-manch/raw/main/ChatGPT%20Image%20Sep%2021%2C%202025%2C%2002_05_12%20AM.png" alt="ChatGPT Image" />
+  <img src="https://github.com/rahul15-manch/rahul15-manch/blob/main/ChatGPT%20Image%20Jun%2015%2C%202026%2C%2008_16_29%20AM.png" alt="rahul15-manch" />
 </p>
 
-
 ---
+
+
 
 ## 🛠️ Skills & Tools  
 <table>
@@ -114,9 +107,6 @@
 <!-- DSA-END -->
 
 ---
-
-
-
 
 ## 📊 GitHub Stats
 
