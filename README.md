@@ -101,7 +101,7 @@
 
 <!-- DSA-START -->
 
-✔ **Solved:** Check if Array Is Sorted and Rotated  
+✔ **Solved:** Decode Ways  
 📅 **Date:** 14 June 2026  
 
 <!-- DSA-END -->
