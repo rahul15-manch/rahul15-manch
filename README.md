@@ -101,8 +101,8 @@
 
 <!-- DSA-START -->
 
-✔ **Solved:** Decode Ways  
-📅 **Date:** 14 June 2026  
+✔ **Solved:** Minimum Window Substring  
+📅 **Date:** 16 June 2026  
 
 <!-- DSA-END -->
 
