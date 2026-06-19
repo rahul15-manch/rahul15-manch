@@ -101,8 +101,8 @@
 
 <!-- DSA-START -->
 
-✔ **Solved:** String Compression  
-📅 **Date:** 17 June 2026  
+✔ **Solved:** Min Cost Climbing Stairs  
+📅 **Date:** 19 June 2026  
 
 <!-- DSA-END -->
 
