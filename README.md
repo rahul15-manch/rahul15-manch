@@ -101,8 +101,8 @@
 
 <!-- DSA-START -->
 
-✔ **Solved:** Min Cost Climbing Stairs  
-📅 **Date:** 19 June 2026  
+✔ **Solved:** Unique Paths II  
+📅 **Date:** 20 June 2026  
 
 <!-- DSA-END -->
 
