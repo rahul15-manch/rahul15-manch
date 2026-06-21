@@ -101,8 +101,8 @@
 
 <!-- DSA-START -->
 
-✔ **Solved:** Unique Paths II  
-📅 **Date:** 20 June 2026  
+✔ **Solved:** Max Area of Island  
+📅 **Date:** 21 June 2026  
 
 <!-- DSA-END -->
 
