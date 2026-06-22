@@ -101,8 +101,8 @@
 
 <!-- DSA-START -->
 
-✔ **Solved:** Max Area of Island  
-📅 **Date:** 21 June 2026  
+✔ **Solved:** LRU Cache  
+📅 **Date:** 22 June 2026  
 
 <!-- DSA-END -->
 
