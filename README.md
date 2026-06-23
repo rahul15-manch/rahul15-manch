@@ -101,8 +101,8 @@
 
 <!-- DSA-START -->
 
-✔ **Solved:** LRU Cache  
-📅 **Date:** 22 June 2026  
+✔ **Solved:** Validate Binary Search Tree  
+📅 **Date:** 23 June 2026  
 
 <!-- DSA-END -->
 
