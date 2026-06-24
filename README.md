@@ -101,8 +101,8 @@
 
 <!-- DSA-START -->
 
-✔ **Solved:** Validate Binary Search Tree  
-📅 **Date:** 23 June 2026  
+✔ **Solved:** Search Insert Position  
+📅 **Date:** 24 June 2026  
 
 <!-- DSA-END -->
 
