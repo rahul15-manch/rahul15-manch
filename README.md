@@ -101,8 +101,8 @@
 
 <!-- DSA-START -->
 
-✔ **Solved:** Search Insert Position  
-📅 **Date:** 24 June 2026  
+✔ **Solved:** N-Queens II  
+📅 **Date:** 25 June 2026  
 
 <!-- DSA-END -->
 
