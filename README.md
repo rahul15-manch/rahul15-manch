@@ -101,8 +101,8 @@
 
 <!-- DSA-START -->
 
-✔ **Solved:** N-Queens II  
-📅 **Date:** 25 June 2026  
+✔ **Solved:** Score of Parentheses  
+📅 **Date:** 26 June 2026  
 
 <!-- DSA-END -->
 
