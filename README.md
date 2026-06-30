@@ -101,8 +101,8 @@
 
 <!-- DSA-START -->
 
-✔ **Solved:** Score of Parentheses  
-📅 **Date:** 26 June 2026  
+✔ **Solved:** Number of Substrings Containing All Three Characters  
+📅 **Date:** 30 June 2026  
 
 <!-- DSA-END -->
 
