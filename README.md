@@ -101,8 +101,8 @@
 
 <!-- DSA-START -->
 
-✔ **Solved:** Number of Substrings Containing All Three Characters  
-📅 **Date:** 30 June 2026  
+✔ **Solved:** Degree of an Array  
+📅 **Date:** 04 July 2026  
 
 <!-- DSA-END -->
 
