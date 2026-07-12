@@ -101,8 +101,8 @@
 
 <!-- DSA-START -->
 
-✔ **Solved:** Degree of an Array  
-📅 **Date:** 04 July 2026  
+✔ **Solved:** Find Minimum in Rotated Sorted Array  
+📅 **Date:** 12 July 2026  
 
 <!-- DSA-END -->
 
