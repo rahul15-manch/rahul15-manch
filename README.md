@@ -101,8 +101,8 @@
 
 <!-- DSA-START -->
 
-✔ **Solved:** Implement Queue using Stacks  
-📅 **Date:** 21 July 2026  
+✔ **Solved:** Reverse Linked List  
+📅 **Date:** 31 July 2026  
 
 <!-- DSA-END -->
 
