@@ -101,8 +101,8 @@
 
 <!-- DSA-START -->
 
-✔ **Solved:** Reverse Linked List  
-📅 **Date:** 31 July 2026  
+✔ **Solved:** Largest Rectangle in Histogram  
+📅 **Date:** 05 August 2026  
 
 <!-- DSA-END -->
 
