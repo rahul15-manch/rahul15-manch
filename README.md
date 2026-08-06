@@ -101,8 +101,8 @@
 
 <!-- DSA-START -->
 
-✔ **Solved:** Largest Rectangle in Histogram  
-📅 **Date:** 05 August 2026  
+✔ **Solved:** Best Time to Buy and Sell Stock II  
+📅 **Date:** 06 August 2026  
 
 <!-- DSA-END -->
 
