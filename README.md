@@ -108,13 +108,6 @@
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=rahul15-manch&theme=dark" />
-</p>
-
----
 
 
 ## 🔗 Connect with Me
