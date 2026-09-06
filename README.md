@@ -101,8 +101,8 @@
 
 <!-- DSA-START -->
 
-✔ **Solved:** Best Time to Buy and Sell Stock II  
-📅 **Date:** 06 August 2026  
+✔ **Solved:** Second Highest Salary  
+📅 **Date:** 05 September 2026  
 
 <!-- DSA-END -->
 
