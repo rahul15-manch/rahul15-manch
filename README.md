@@ -101,8 +101,8 @@
 
 <!-- DSA-START -->
 
-✔ **Solved:** Second Highest Salary  
-📅 **Date:** 05 September 2026  
+✔ **Solved:** Employee Bonus  
+📅 **Date:** 13 September 2026  
 
 <!-- DSA-END -->
 
