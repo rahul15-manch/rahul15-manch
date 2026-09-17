@@ -101,8 +101,8 @@
 
 <!-- DSA-START -->
 
-✔ **Solved:** Employee Bonus  
-📅 **Date:** 13 September 2026  
+✔ **Solved:** Number of Arithmetic Triplets  
+📅 **Date:** 17 September 2026  
 
 <!-- DSA-END -->
 
