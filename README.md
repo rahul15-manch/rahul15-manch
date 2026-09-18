@@ -101,8 +101,8 @@
 
 <!-- DSA-START -->
 
-✔ **Solved:** Number of Arithmetic Triplets  
-📅 **Date:** 17 September 2026  
+✔ **Solved:** Generate Parentheses  
+📅 **Date:** 18 September 2026  
 
 <!-- DSA-END -->
 
