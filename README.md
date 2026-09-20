@@ -132,6 +132,12 @@
         Gmail
       </a>
     </td>
+    <td align="center">
+  <a href="https://portfolio-beta-green-52.vercel.app/" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/vercel.svg" alt="Portfolio" width="40" height="40"/><br>
+    Portfolio
+  </a>
+</td>
   </tr>
 </table>
 
