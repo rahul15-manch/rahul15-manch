@@ -101,8 +101,8 @@
 
 <!-- DSA-START -->
 
-✔ **Solved:** Generate Parentheses  
-📅 **Date:** 18 September 2026  
+✔ **Solved:** Circle and Rectangle Overlapping  
+📅 **Date:** 19 September 2026  
 
 <!-- DSA-END -->
 
