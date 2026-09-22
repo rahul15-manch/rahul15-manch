@@ -101,8 +101,8 @@
 
 <!-- DSA-START -->
 
-✔ **Solved:** Circle and Rectangle Overlapping  
-📅 **Date:** 19 September 2026  
+✔ **Solved:** Sudoku Solver  
+📅 **Date:** 22 September 2026  
 
 <!-- DSA-END -->
 
