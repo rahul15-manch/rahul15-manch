@@ -101,8 +101,8 @@
 
 <!-- DSA-START -->
 
-✔ **Solved:** Sudoku Solver  
-📅 **Date:** 22 September 2026  
+✔ **Solved:** Rotate Image  
+📅 **Date:** 25 September 2026  
 
 <!-- DSA-END -->
 
