@@ -101,8 +101,8 @@
 
 <!-- DSA-START -->
 
-✔ **Solved:** Container With Most Water  
-📅 **Date:** 28 September 2026  
+✔ **Solved:** Min Cost Climbing Stairs  
+📅 **Date:** 29 September 2026  
 
 <!-- DSA-END -->
 
