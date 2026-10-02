@@ -101,8 +101,8 @@
 
 <!-- DSA-START -->
 
-✔ **Solved:** Four Divisors  
-📅 **Date:** 01 October 2026  
+✔ **Solved:** Rotate String  
+📅 **Date:** 02 October 2026  
 
 <!-- DSA-END -->
 
