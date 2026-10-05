@@ -101,8 +101,8 @@
 
 <!-- DSA-START -->
 
-✔ **Solved:** Reverse Degree of a String  
-📅 **Date:** 03 October 2026  
+✔ **Solved:** Spiral Matrix  
+📅 **Date:** 05 October 2026  
 
 <!-- DSA-END -->
 
