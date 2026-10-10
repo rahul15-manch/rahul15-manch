@@ -101,8 +101,8 @@
 
 <!-- DSA-START -->
 
-✔ **Solved:** Spiral Matrix  
-📅 **Date:** 05 October 2026  
+✔ **Solved:** Subsets  
+📅 **Date:** 10 October 2026  
 
 <!-- DSA-END -->
 
