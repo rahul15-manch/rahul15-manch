@@ -101,8 +101,8 @@
 
 <!-- DSA-START -->
 
-✔ **Solved:** Subsets  
-📅 **Date:** 10 October 2026  
+✔ **Solved:** Valid Parentheses  
+📅 **Date:** 17 October 2026  
 
 <!-- DSA-END -->
 
