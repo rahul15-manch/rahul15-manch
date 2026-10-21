@@ -101,8 +101,8 @@
 
 <!-- DSA-START -->
 
-✔ **Solved:** Valid Parentheses  
-📅 **Date:** 17 October 2026  
+✔ **Solved:** Top K Frequent Elements  
+📅 **Date:** 21 October 2026  
 
 <!-- DSA-END -->
 
