@@ -101,8 +101,8 @@
 
 <!-- DSA-START -->
 
-✔ **Solved:** Top K Frequent Elements  
-📅 **Date:** 21 October 2026  
+✔ **Solved:** Two Sum II - Input Array Is Sorted  
+📅 **Date:** 28 October 2026  
 
 <!-- DSA-END -->
 
